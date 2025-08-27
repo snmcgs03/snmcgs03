@@ -26,9 +26,9 @@ I am an Electronics and Communication Engineering student at PES University, asp
 ---
 
 ## 📊 GitHub Stats  
-![](https://github-readme-stats.vercel.app/api?username=snmcgs03&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>  
-![](https://nirzak-streak-stats.vercel.app/?user=snmcgs03&theme=highcontrast&hide_border=false)<br/>  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=snmcgs03&theme=highcontrast&hide_border=false&include_all_commits=false&layout=compact)  
+![](https://github-readme-stats.vercel.app/api?username=snmcgs03&bg_color=0d1117&title_color=2f81f7&text_color=c9d1d9&icon_color=2f81f7&border_color=30363d&hide_border=false&include_all_commits=false&count_private=false)<br/>  
+![](https://nirzak-streak-stats.vercel.app/?user=snmcgs03&theme=dark&background=0d1117&ring=2f81f7&fire=2f81f7&currStreakLabel=2f81f7&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e&border=30363d&hide_border=false)<br/>  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=snmcgs03&bg_color=0d1117&title_color=2f81f7&text_color=c9d1d9&border_color=30363d&hide_border=false&layout=compact)  
 
 ---
 
