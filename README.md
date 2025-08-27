@@ -17,11 +17,12 @@ I am an Electronics and Communication Engineering student at PES University, asp
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-%2300599C.svg?style=flat&logo=verilog&logoColor=white)  
 ![Verilog](https://img.shields.io/badge/Verilog-%2300599C.svg?style=flat&logo=verilog&logoColor=white)  
 ![RISC-V](https://img.shields.io/badge/RISC--V-%23007ACC.svg?style=flat&logo=riscv&logoColor=white)  
+![Vivado](https://img.shields.io/badge/Vivado-%23FF6F00.svg?style=flat&logo=xilinx&logoColor=white)  
+![Cadence](https://img.shields.io/badge/Cadence-%23E34F26.svg?style=flat&logo=cadence&logoColor=white)  
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-3670A0.svg?style=flat&logo=python&logoColor=ffdd54)  
 ![Quartus](https://img.shields.io/badge/Quartus-%2300599C.svg?style=flat&logo=intel&logoColor=white)  
-![Vivado](https://img.shields.io/badge/Vivado-%23FF6F00.svg?style=flat&logo=xilinx&logoColor=white)  
-![Cadence](https://img.shields.io/badge/Cadence-%23E34F26.svg?style=flat&logo=cadence&logoColor=white)  
+
 
 ---
 
