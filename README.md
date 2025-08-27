@@ -2,13 +2,7 @@
 
 ## Hello, I'm **Shashank Nadig M** 👋  
 
-⚡ Electronics & Communication Engineering Student at PES University  
-🚀 Aspiring **VLSI and Computer Architecture Engineer** with strong interest in digital design and SoC development  
-
-- Skilled in **RTL coding** (SystemVerilog/Verilog)  
-- Experience with **RISC-V core design, testing, and verification**  
-- Familiar with **FPGA prototyping, synthesis, and physical design flows**  
-- Passionate about **processor microarchitecture** and building efficient SoC architectures  
+I am an Electronics and Communication Engineering student at PES University, aspiring to become a VLSI and Computer Architecture Engineer. I have hands-on experience in RISC-V core design and verification, and strong skills in RTL coding using SystemVerilog/Verilog. I also have experience with FPGA prototyping and am familiar with synthesis and physical design flows. My passion lies in processor microarchitecture, digital design, and building efficient SoC architectures.
 
 ---
 
